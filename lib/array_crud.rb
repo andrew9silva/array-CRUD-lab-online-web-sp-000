@@ -28,6 +28,7 @@ end
 
 def remove_element_from_start_of_array(array)
   red_sox = ["pop", "mookie", "benintendi", "jd", "sale"]
+  red_sox.shift
 
 end
 
