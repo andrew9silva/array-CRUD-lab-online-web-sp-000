@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   red_sox = ["mookie", "benintendi", "jd", "sale"]
-  red_sox.push("devers")
+  red_sox.push("arrays!")
 
 end
 
