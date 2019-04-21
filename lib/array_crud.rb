@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  red_sox = [Mookie, Benintendi, JD, Sale]
+  red_sox = [mookie, benintendi, jd, sale]
 
 end
 
