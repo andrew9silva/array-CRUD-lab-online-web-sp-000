@@ -45,5 +45,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
+  red_sox = ["mookie", "benintendi", "jd", "arrays!"]
+  red_sox.last
 
 end
