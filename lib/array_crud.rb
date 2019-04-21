@@ -21,6 +21,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
+  red_sox = ["mookie", "benintendi", "jd", "sale"]
+  red_sox.pop
 
 end
 
